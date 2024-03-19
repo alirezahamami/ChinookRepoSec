@@ -1,0 +1,6 @@
+projectKey=Chinook
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=Chinook
+ceTaskId=c93e4148-8c1d-4c0f-befe-8cb3a3f181c0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=c93e4148-8c1d-4c0f-befe-8cb3a3f181c0
